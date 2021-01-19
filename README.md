@@ -25,11 +25,3 @@ number and select that tag to talk. After that, display the menu on the screen a
 ask the user to choose the option. Execute the operation according to the selected
 option. This procedure happens every time that the user swipe de tag into the
 reader.
-
-### Bugs and Reports
-
-Although the application works correctly, there were some errors and problems:
-
-1. We only have 1.5 seconds to start writing the option.
-2. Everything we write on the keyboard is not written on the screen.
-   The card or tag, must be present to the reader during the entire operation.
